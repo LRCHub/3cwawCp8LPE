@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "色恋沙汰",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-03T15:46:06.002687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "色恋沙汰",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_色恋沙汰_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "色恋沙汰",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_色恋沙汰_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "色恋沙汰",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_色恋沙汰_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "色恋沙汰",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_色恋沙汰_椎名_林檎.txt"
+    }
+  ]
+}
